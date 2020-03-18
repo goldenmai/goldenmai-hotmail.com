@@ -7,3 +7,6 @@ Since pandemic can not be vanished, it will come again and again, and even more 
 I'll collect data and simulate it with python. 
 
 I'd like to simulate the data on the map, it should be a good practice for usage of python.
+
+dataapi
+https://www.who.int/data/gho/info/gho-odata-api
