@@ -8,10 +8,12 @@ I'll collect data and simulate it with python.
 
 I'd like to simulate the data on the map, it should be a good practice for usage of python.
 
+
 dataapi
 who: https://www.who.int/data/gho/info/gho-odata-api
 ECDC: 
-
+Johns Hopkins:
+https://github.com/CSSEGISandData/COVID-19
 
 https://docs.google.com/document/d/e/2PACX-1vS2p8BPJ5d0WcHxRAB0BWCv6fY2lgZPVanfZNqOX4z2e00cOEwPIWhlO5ZNlPb5Fe2Pva_c74leKrR2/pub
 Launched in China 🇨🇳
